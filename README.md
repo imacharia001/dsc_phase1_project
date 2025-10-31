@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 This project analyzes aircraft accident and injury data to assess relative safety across different plane models.
-The dataset includes accident and injury counts but does **not** provide exposure data such as flight hours or total flights per aircraft type.
+The dataset includes accident and injury counts but does not provide exposure data such as flight hours or total flights per aircraft type.
 Further data collection (e.g., total flights per model) is recommended to calculate accurate safety rates.
 
 ## 🎯 Objectives
@@ -20,7 +20,7 @@ Further data collection (e.g., total flights per model) is recommended to calcul
 
 ## 🛠️ Tech Stack
 - **Language:** Python
-- **Libraries:** pandas, matplotlib, seaborn (optional)
+- **Libraries:** pandas,
 - **Tools:** Jupyter Notebook, Git, GitHub
 
 ## 📂 Project Structure
