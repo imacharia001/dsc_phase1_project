@@ -20,7 +20,7 @@ Further data collection (e.g., total flights per model) is recommended to calcul
 
 ## 🛠️ Tech Stack
 - **Language:** Python
-- **Libraries:** pandas,
+- **Libraries:** pandas
 - **Tools:** Jupyter Notebook, Git, GitHub
 
 ## 📂 Project Structure
